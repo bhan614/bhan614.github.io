@@ -57,6 +57,7 @@ section{overflow: hidden}
 .chart canvas {  position: absolute;  top: 0;  left: 0;  }
 .percent {  display: inline-block;  font-size: 21px;  color:#2C3E50;  line-height: 152px;  z-index: 2;  }
 #skills .skill {  margin: 30px 0;  text-align: center;  padding: 0px;  }
+#skills .skill-text { width: 750px; text-align: left; margin: 0 auto;}
 
 #contact{background: url("../images/contact-bg.jpg")no-repeat;width: 100%;background-size: cover;background-attachment: fixed;text-align: center;padding: 50px;color: white}
 #contact h3{margin: 50px 0}
